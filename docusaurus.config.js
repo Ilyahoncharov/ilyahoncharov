@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Ilya Honcharov Lab 2',
   tagline: 'Peremoga bude!',
-  favicon: 'img/favicon.ico',             
+  favicon: 'img/favicon.ico',              
 
   // Set the production url of your site here
   url: 'https://Ilyahoncharovlabwork2.github.io',
